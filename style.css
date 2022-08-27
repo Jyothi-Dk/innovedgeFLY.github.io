@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    background-color: #f6efcd;
+}
+.two{
+    margin: 1.5vw;
+    /* padding: 1em; */
+    background-color: #f2fefb;
+    font: 1.2em "times new roman", sans-serif;
+}
+.three{
+    background-color: aquamarine;
+}
+.a{  
+    font: 5vh cursive;
+    text-align: center;
+}
+.b{
+    font: 2.5vh cursive;
+    text-align: center;
+}
+#one-a{
+    float: left;
+    width: 15vh;
+    border-radius: 8vh;
+    padding: 1vh;
+}
+li{
+    display: inline;
+    margin: 0;
+    padding: 0px 50px;
+}
+.c{
+    font: 2em arial; 
+
+}
+.d{
+    font: 1.5em arial;
+}
+h3{
+    font: /*bold*/ 1.2em arial; 
+} 
+.e{
+    padding: 1em 0;
+}
+
+body
+{
+  background: rgb(229, 215, 215);
+}
